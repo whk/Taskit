@@ -2,7 +2,7 @@
 //  TaskModel.swift
 //  Taskit
 //
-//  Created by Jim Kaubisch on 2/13/15.
+//  Created by Jim Kaubisch on 2/16/15.
 //  Copyright (c) 2015 Jim Kaubisch. All rights reserved.
 //
 

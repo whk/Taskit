@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F64038B9-C518-4147-9C2F-AF61C3511DDC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Taskit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F0C90D4BD401998D8408BFBD4CB060BDFD57882B</key>
+		<string>https://github.com/whk/Taskit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Taskit.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F0C90D4BD401998D8408BFBD4CB060BDFD57882B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/whk/Taskit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F0C90D4BD401998D8408BFBD4CB060BDFD57882B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F0C90D4BD401998D8408BFBD4CB060BDFD57882B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Taskit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
